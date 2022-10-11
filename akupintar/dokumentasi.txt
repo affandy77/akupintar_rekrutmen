@@ -1,0 +1,3 @@
+server: offline xampp
+dbname: akupintar_
+jalankan url : akupintar/api/kampus/list.php?limit=3&name=universitas
